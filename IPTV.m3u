@@ -1,0 +1,386 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC5
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mbc1logo_%282%29.png/640px-Mbc1logo_%282%29.png" group-title="MBC",MBC1
+https://mbc1na-prod-dub-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png" group-title="MBC",MBC Drama
+https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/1481ac1b-90f0-4701-be9d-c15c01758b09/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_MBC_Drama_%2B.png" group-title="MBC",MBC+ Drama
+https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5e/MBC4_LOGO.jpg" group-title="MBC",MBC4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQyOEM9ykvAtq9ZtrpIk6sgbTivHxTe3BzyA&usqp=CAU" group-title="MBC",MBC Action
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC",MBC Bollywood
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC3
+https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo-Web.png" group-title="Shahid",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_5838936_main.png?v=6" group-title="Shahid",Movies
+https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/087d8880-6049-4002-a69d-4206b3a7a674/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_6118404_main.png?v=1" group-title="Shahid",Movies Action
+https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/a80ea08a-b724-40a0-9464-da3ec830843f/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_6118406_main.png?v=1" group-title="Shahid",Movies Thriller
+https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/81c8c2cd-8fa0-46d0-97f8-7fbd873bf6f6/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_5838941_main.png?v=4" group-title="Shahid",Aflam
+https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/4b480cca-08ee-47b1-833c-b8d5f63e25f0/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="Shahid",M6 International
+https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="Shahid",SpaceToon
+https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://prod-media.beinsports.com/image/61a10e6abb1149ad9d08f303267f9bc4.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS NEWS HD
+https://airmaxtv.online:443/airmaxpro/airmaxprox/582.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN  SPORTS HD" tvg-logo="https://prod-media.beinsports.com/image/d78bded526b07ede88675c6412d63f3d.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS HD
+https://airmaxtv.online:443/airmaxpro/airmaxprox/583.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png?ver=06-02-2024" group-title="Bein Sports",beIN SPORTS 1
+https://airmaxtv.online:443/airmaxpro/airmaxprox/306.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2ᔆᵈ" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 2
+https://airmaxtv.online:443/airmaxpro/airmaxprox/307.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3ᔆᵈ" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 3
+https://airmaxtv.online:443/airmaxpro/airmaxprox/308.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 4
+https://airmaxtv.online:443/airmaxpro/airmaxprox/309.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4." tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 4.
+https://airmaxtv.online:443/airmaxpro/airmaxprox/310.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 5
+https://airmaxtv.online:443/airmaxpro/airmaxprox/311.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 6
+https://airmaxtv.online:443/airmaxpro/airmaxprox/312.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 7
+https://airmaxtv.online:443/airmaxpro/airmaxprox/313.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 8
+https://airmaxtv.online:443/airmaxpro/airmaxprox/314.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 9
+https://airmaxtv.online:443/airmaxpro/airmaxprox/315.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport XTRA 1 HD" tvg-logo="https://prod-media.beinsports.com/image/a501bebf79d570651ff601788ea9d16d.png?ver=06-02-2024" group-title="Bein Sports",beIN Sport XTRA 1 HD
+https://airmaxtv.online:443/airmaxpro/airmaxprox/584.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra 2 FHD" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.png?ver=06-02-2024" group-title="Bein Sports",BeIN Sports Extra 2 FHD
+https://airmaxtv.online:443/airmaxpro/airmaxprox/585.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD1" tvg-logo="https://prod-media.beinsports.com/image/6a971e08a01e6676d0f1a6e0dacbbd67.png?ver=06-02-2024" group-title="Bein Sports",Bein Sports English HD1
+https://airmaxtv.online:443/airmaxpro/airmaxprox/586.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD2" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.png?ver=06-02-2024" group-title="Bein Sports",Bein Sports English HD2
+https://airmaxtv.online:443/airmaxpro/airmaxprox/587.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD3" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.png?ver=06-02-2024" group-title="Bein Sports",Bein Sports English HD3
+https://airmaxtv.online:443/airmaxpro/airmaxprox/588.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS French HD1" tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS French HD1
+https://airmaxtv.online:443/airmaxpro/airmaxprox/589.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10" tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS French HD2
+https://airmaxtv.online:443/airmaxpro/airmaxprox/316.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ssc news ᴴᴰ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_news.jpg" group-title="SSC SPORT",SSC News ᴴᴰ
+https://airmaxtv.online:443/airmaxpro/airmaxprox/317.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ssc 1 ᴴᴰ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc1.jpg" group-title="SSC SPORT",SSC 1 ᴴᴰ
+https://airmaxtv.online:443/airmaxpro/airmaxprox/318.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ssc 2 ᴴᴰ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc2.jpg" group-title="SSC SPORT",SSC 2 ᴴᴰ
+https://airmaxtv.online:443/airmaxpro/airmaxprox/319.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ssc 3 ᴴᴰ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc3.jpg" group-title="SSC SPORT",SSC 3 ᴴᴰ
+https://airmaxtv.online:443/airmaxpro/airmaxprox/320.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ssc 4 ᴴᴰ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc4.jpg" group-title="SSC SPORT",SSC 4 ᴴᴰ
+https://airmaxtv.online:443/airmaxpro/airmaxprox/321.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ssc 5 ᴴᴰ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc5.jpg" group-title="SSC SPORT",SSC 5 ᴴᴰ
+https://airmaxtv.online:443/airmaxpro/airmaxprox/322.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ssc 1 extra ᴴᴰ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra1.jpg" group-title="SSC SPORT",SSC 1 Extra ᴴᴰ
+https://airmaxtv.online:443/airmaxpro/airmaxprox/323.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ssc 2 extra ᴴᴰ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra2.jpg" group-title="SSC SPORT",SSC 2 Extra ᴴᴰ
+https://airmaxtv.online:443/airmaxpro/airmaxprox/324.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ssc 3 extra ᴴᴰ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="SSC SPORT",SSC 3 Extra ᴴᴰ
+https://airmaxtv.online:443/airmaxpro/airmaxprox/325.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love Nature HD
+https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love Nature FHD
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/W-30EQrMtedFNuT_ZYaIHb5uU3VB8OXWmImpV81CUOn6SRZcHxeIHA-6vAHKbNw9uWgxJrkM2sHVdqJCNLUzynw0LqMqkX9KKKuOF_v8VQAXslEC-L40-lpJDU22TCR7bAp1Md4" group-title="Documentary",Love Nature UHD
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" group-title="Documentary",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2023/08/31/3978221-1624809247.jpg?itok=yLUXwJ4M" group-title="Documentary",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPJJA86IZFoha3kcEo8j8C7ul-CmL1d1VA1btti27HQ&s" group-title="Documentary",History
+http://212.102.60.10/history_channel/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfeB6vULxxng9Lh7xedDS0wKr25k_jpqPnsw&usqp=CAU" group-title="Documentary",Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHoLc_dsDtdMoWOCe0KcqJbsx011wikn10gQ&usqp=CAU" group-title="Documentary",Wild Earth
+https://wildearth-roku.amagi.tv/masterR432p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mbc1logo_%282%29.png/640px-Mbc1logo_%282%29.png" group-title="Shahid",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CiA3plN" group-title="MBC",MBC1 HD
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PVt8OPN" group-title="MBC",MBC3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PVt8OPN" group-title="MBC",MBC3 EUROPE
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PVt8OPN" group-title="MBC",MBC3 USA
+https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CiA3plN" group-title="MBC",MBC1 USA
+https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8return v0
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BcXASJp" group-title="MBC",MBC4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fRWaDyF" group-title="MBC",MBC5
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TTAGFHG" group-title="MBC",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/g5PWnqp" group-title="MBC",MBC Drama
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lxWdjXG" group-title="MBC",
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lF8UxvR" group-title="MBC",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+
+#EXTINF:-1 tvg-logo=https://imgur.com/D0LxiPE" group-title="MBC",MBC Iraq
+https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/o2elx0u" group-title="MBC",MBC Masr
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/o2elx0u" group-title="MBC",MBC Masr USA
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KHo7Gtn" group-title="MBC",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4FXiyjn" group-title="MBC",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nLtiXNf" group-title="MBC",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/H4h6184" group-title="USA",BET
+http://170.254.18.106/BET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JmTIRLF" group-title="USA",BRAVO
+http://170.254.18.106/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/STMMxMz" group-title="USA",FUSE
+http://170.254.18.106/FUSE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/evOWORd" group-title="USA",GET
+http://170.254.18.106/GET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="USA",MTV
+http://170.254.18.106/MTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="USA",TBS
+http://170.254.18.106/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="USA",TRUTV
+http://170.254.18.106/TRUTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="USA",VH1
+http://170.254.18.106/VH1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="USA",HGTV
+http://170.254.18.106/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="USA",LIFETIME
+http://170.254.18.106/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AHP3J12" group-title="USA",LMN
+http://170.254.18.106/LMN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3zrkpno" group-title="USA",TLC
+http://170.254.18.106/TLC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=WETV_HD&productId=ENTOD&sourceType=colorHybrid" group-title="USA",WE TV
+http://170.254.18.106/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="USA",HISTORY
+http://170.254.18.106/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="USA",AMC
+http://170.254.18.106/AMC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="USA",COMEDY CENTRAL
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Wdzx2Wf" group-title="USA",FX
+http://170.254.18.106/FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4fMWhUE" group-title="USA",SYFY
+http://170.254.18.106/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="USA",TNT
+http://170.254.18.106/TNT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ql7LCYV" group-title="USA",HBO2
+http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="USA",HBO XTREME
+http://170.254.18.106/HBO_XTREME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="USA",HBO SIGNATURE
+http://170.254.18.106/HBO_SIG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="USA",HBO MUNDI
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="USA",HBO FAMILY
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3riPJJY" group-title="USA",CINEMAX
+http://170.254.18.106/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bgJQIyW" group-title="USA",3ABN
+http://170.254.18.106/3ABN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sua70RO" group-title="USA",EWTN
+http://170.254.18.106/EWTN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9A0AYyq" group-title="USA",TBN
+http://170.254.18.106/TBN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/512px-HustlerTV.svg.png" group-title="USA",HUSTLER TV
+http://170.254.18.106/HUSTLER_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NlKFNHS" group-title="USA",HTV
+http://170.254.18.106/HTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AfUdtEG" group-title="USA",TELEHIT
+http://170.254.18.106/TELEHIT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U8gPNL7" group-title="USA",TELEXITOS
+http://170.254.18.106/TELEXITOS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="USA",WPIX
+http://170.254.18.106/WPIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OjLCew5" group-title="USA",AMC AW
+https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwM5bswibQPItRSWT5N4QfwrWGfZE3Mfz8GyW4VFw87A&s" group-title="USA",History Time
+https://lnc-historytime.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cinevaulttv.com/images/logos/cinevault-logo.jpg" group-title="USA",Cinevault Classics
+https://lnc-cinevault-classics.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pTiiPz0" group-title="USA",BBC America East
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwul9vILmFTe_TQ4yEjSkeOEhlF_QbUm4HzrE6hMNbLQ&s" group-title="USA",BBC Doctor Who (French)
+https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BBC_Drama_2019.svg/revision/latest?cb=20190108220843" group-title="USA",BBC Drama
+https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" group-title="USA",BBC EARTH
+https://lnc-bbc-earth.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8j2npVc" group-title="FILMRISE",Filmrise Binge (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/56f5b5ceafba4a8b/9991728/master.m3u8?ads.xumo_channelId=9991728
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8j2npVc" group-title="FILMRISE",Filmrise Série (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991729/master.m3u8?ads.xumo_channelId=9991729
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8j2npVc" group-title="FILMRISE",Filmrise Black TV
+https://lnc-filmrise-blacktv.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8j2npVc" group-title="FILMRISE",Filmrise Horror
+https://lnc-filmrise-horror.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8j2npVc" group-title="FILMRISE",Filmrise Hot Ones
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/SUNTV.svg/revision/latest?cb=20190103152552" group-title="JAPAN",SUN Sports
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WxtftlO" group-title="JAPAN",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fAZ2BEZ" group-title="JAPAN",NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Nippon_TV_%282013_with_Wordmark%29.svg/revision/latest/scale-to-width-down/250?cb=20210120174417" group-title="JAPAN",Nippon TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TBS_TV_6_%282003%29.svg/revision/latest/scale-to-width-down/200?cb=20210222192520" group-title="JAPAN",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="JAPAN",Fuji TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TV_Tokyo_logo_20110629.svg" group-title="JAPAN",TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Tokyo_Metropolitan_TV_%281995%29.svg/revision/latest?cb=20210607065030" group-title="JAPAN",TV Tokyo MX1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/800px-Mainichi_Broadcasting_System_logo.svg.png" group-title="JAPAN",MBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+
+#EXTINF:-1 tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png" group-title="JAPAN",ABC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+
+#EXTINF:-1 tvg-logo="https://www.ktv.jp/en/assets/img/common/footer_logo.png" group-title="JAPAN",Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/1200px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="JAPAN",YTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png" group-title="JAPAN",TVO
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3109144896/098d1aa837e9a8ab0905612a63ea52aa_400x400.png" group-title="JAPAN",SUN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
