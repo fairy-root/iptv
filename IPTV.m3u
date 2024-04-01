@@ -384,3 +384,135 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3109144896/098d1aa837e9a8ab0905612a63ea52aa_400x400.png" group-title="JAPAN",SUN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+
+#EXTINF:-1 tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="JAPAN", Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/turWday.png" group-title="JAPAN",AT-X
+https://neetball.net/live/neet3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="JAPAN",Cartoon Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="JAPAN",CGNTV
+https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNmUTdldaexouRkQfjmYI-QQfvCcQsWJip-pKlP2XFyA&s" group-title="JAPAN",Channel Ginga
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fSNc0jP.png" group-title="JAPAN",Chukyo TV News
+https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ft6wEdO.png" group-title="JAPAN",CNNJ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSq7b5E.jpeg" group-title="JAPAN",Disney
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="JAPAN",Disney Junior
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/img/tv/logo/movie/eigeki_logo.jpg" group-title="JAPAN",Eisei Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qX6nNOF.png" group-title="JAPAN",Fishing Vision
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest?cb=20240314232144" group-title="JAPAN",Fuji TV NEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UgKRfuw_d.webp?maxwidth=760&fidelity=grand" group-title="JAPAN",GAORA SPORTS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/heUOYjpO3d0veq4-AMbsvnD0dEyhziHgUZ4l2YXAfVUG4QthMnF_IJMNW5yoBB1AUag" group-title="JAPAN",Golf Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sD3z8j7.png" group-title="JAPAN",Green Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iNkKh7w.png" group-title="JAPAN", Home Drama
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="JAPAN",J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="JAPAN",J SPORTS 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xdI361E.png" group-title="JAPAN",J SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="JAPAN",J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+#EXTINF:-1 tvg-logo="https://www.kayopops.jp/parts/common/img/ogimage.png" group-title="JAPAN",Kayo Pops
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pokemon/images/7/79/Kids_Station.png/revision/latest?cb=20200321032417" group-title="JAPAN",Kids Station
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/APBty36.png" group-title="JAPAN",Lala
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/mmpjpu2.png" group-title="JAPAN",Mondo TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+
+EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/931333270083481600/35PsiZfj_400x400.jpg" group-title="JAPAN",Movie Plus
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="JAPAN",MTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuDD8hPD3tIV5cJy1moS4tVlfUDIQkWhiJew&usqp=CAU" group-title="JAPAN",Music Japan TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="JAPAN",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="JAPAN",NHK BSP 4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo.svg/1200px-Nittele_G%2B_logo.svg.png" group-title="JAPAN",Nittele G+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="JAPAN",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2hMSzhPziQUssqzla0xQPvcKTW0mMpApPjgVOfuD&s" group-title="JAPAN",Sky A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg" group-title="JAPAN",Space Shower
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/PSVgw99.png" group-title="JAPAN", Star Channel 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/QOriZy5.png" group-title="JAPAN",Star Channel 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/Z1x8ecY.png" group-title="JAPAN",Star Channel 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/JBePECx.png" group-title="JAPAN",TABI Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTVvoI0mRcZsUdwTtm8iSEjfMTPNJt0NRyg&usqp=CAU" group-title="JAPAN",TAKARAZUKA SKY STAGE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+
+EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-173-400x400.png" group-title="JAPAN",Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/igia8OX.png" group-title="JAPAN",Tokyo  MX1
+https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/igia8OX.png" group-title="JAPAN",Tokyo MX2
+https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="JAPAN",Wowo Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="JAPAN",Wowo Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="JAPAN",Wowo Prime
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
