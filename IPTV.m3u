@@ -151,7 +151,7 @@ https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHoLc_dsDtdMoWOCe0KcqJbsx011wikn10gQ&usqp=CAU" group-title="Documentary",Wild Earth
 https://wildearth-roku.amagi.tv/masterR432p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mbc1logo_%282%29.png/640px-Mbc1logo_%282%29.png" group-title="Shahid",Dubai One
+#EXTINF:-1 tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo-Web.png" group-title="Shahid",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CiA3plN" group-title="MBC",MBC1 HD
@@ -358,7 +358,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="JAPAN",Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
+#EXTINF:-1 tvg-logo=https://banner2.cleanpng.com/20181125/qa/kisspng-logo-japan-tv-asahi-brand-clip-art-hd-wallpapers-asahi-beer-logo-yyp-earecom-press-5bfad6a48e6a42.1261294115431656045833.jpg" group-title="JAPAN",TV Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TV_Tokyo_logo_20110629.svg" group-title="JAPAN",TV Tokyo
