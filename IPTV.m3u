@@ -738,3 +738,114 @@ https://algerian-iptv.uk:443/sami/sami2/367.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC DÉCOUVERTE
 https://algerian-iptv.uk:443/sami/sami2/368.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Paramount_Pictures_%282022%29.png" group-title="USA",Paramount
+http://170.254.18.106/PARAMOUNT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="USA",Pluto TV Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="USA",HBO
+https://live.tv247us.com/tv247/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1280px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA
+https://live.tv247us.com/tv247/usanw.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180406/ese/kisspng-showtime-television-channel-logo-35-5ac76ebc1c0e02.4424735715230194521149.jpg" group-title="USA",Showtime
+https://live.tv247us.com/tv247/showtime.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="USA",Outdoor
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkPINW1u1ZpyfJi-6dsQM5bJhrwFQow4tkJ8zA8_e4A&s" group-title="Documentary",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="FRANCE",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Allocin%C3%A9_Logo_%282019%29.svg/1200px-Allocin%C3%A9_Logo_%282019%29.svg.png" group-title="FRANCE",Allo Ciné
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/MuseumTV.svg/revision/latest?cb=20200906175358" group-title="Documentary",Museum
+https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="ALGERIA (backup)",Canal Algerie
+https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/1200px-Ennahar_TV.svg.png" group-title="ALGERIA (backup)",Ennahar
+https://cdn1.ipslow.com/tv528_www.elahmad.com_ennahar/tracks-v1a1/mono.m3u8?token=1da35844910e849d36dbd2cb1e81b97b613cf028-2e950da2a207dee149b18b780994dcd6-1711971757-1711960957
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg" group-title="ALGERIA (backup)",TV1
+https://tv.ipslow.com/tv528_www.elahmad.com_alegria_1/tracks-v1a1/mono.m3u8?token=8c11e18b3b99ba2f85b0a5ba126baa7011eba6b0-afb768b67a698896afbf959dc22b0bb1-1711971846-1711961046
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="ALGERIA (backup)",TV2
+https://tv.ipslow.com/tv528_www.elahmad.com_alegria_2/tracks-v1a1/mono.m3u8?token=1aea0994c098614e53691255196398ea266372b8-0d9cb9c2cec45952ed8aebe086a4ac30-1711971895-1711961095
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bc/Logo_de_TV3_Alg%C3%A9rie_%282020%29.svg/1200px-Logo_de_TV3_Alg%C3%A9rie_%282020%29.svg.png" group-title="ALGERIA (backup)",TV3
+https://tv.ipslow.com/tv528_www.elahmad.com_alegria_3/tracks-v1a1/mono.m3u8?token=2d328a23751fe15cb8278cc47b97f05b67e9c009-0095f97606005c086aa388eb5901335d-1711971945-1711961145
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_de_TV4_Alg%C3%A9rie_version_arabe_%282020%29.svg/806px-Logo_de_TV4_Alg%C3%A9rie_version_arabe_%282020%29.svg.png" group-title="ALGERIA (backup)",TV4
+https://tv.ipslow.com/tv528_www.elahmad.com_alegria_4/tracks-v1a1/mono.m3u8?token=d21e0076e7e72d3f2bafbcac4fdc7649208f3205-4207d8ce99deb3620b9d2cbbaef60eb0-1711972050-1711961250
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_de_TV5_Alg%C3%A9rie_%282020%29.svg/1200px-Logo_de_TV5_Alg%C3%A9rie_%282020%29.svg.png" group-title="ALGERIA (backup)",TV5
+https://tv.ipslow.com/tv528_www.elahmad.com_alegria_5/tracks-v1a1/mono.m3u8?token=4d063f58476a33889ccb98a5f74e48a04b9b4138-9cf28c7b140afc5c605cfdefc730e454-1711972096-1711961296
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV6_Alg%C3%A9rie_%282020%29.svg/1200px-Logo_de_TV6_Alg%C3%A9rie_%282020%29.svg.png" group-title="ALGERIA (backup)",TV6
+https://tv.ipslow.com/tv528_www.elahmad.com_alegria_6/tracks-v1a1/mono.m3u8?token=a1b97938824283839351e9bc9733a9c00c36337a-e1fab234390fba9439f709e6ec3e31d6-1711972134-1711961334
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/TV7_Algeria_logo_%282020%29.svg/100px-TV7_Algeria_logo_%282020%29.svg.png" group-title="ALGERIA (backup)",TV7
+https://tv.ipslow.com/tv528_www.elahmad.com_alegria_7/tracks-v1a1/mono.m3u8?token=c12ed37773a53e31b7a35883efa59effe4715c63-bc48c8e943dc9f69ded1c098d739f32d-1711972180-1711961380
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/TV8.svg/1200px-TV8.svg.png" group-title="ALGERIA (backup)",TV8
+https://tv.ipslow.com/tv528_www.elahmad.com_alegria_8/tracks-v1a1/mono.m3u8?token=4b4b30639406e0bb02112c8700f84cf1882882df-f26820a5bcc1a636bbbf647afab0a252-1711972205-1711961405
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/2152px-Samira_TV_logo.svg.png" group-title="ALGERIA (backup)",Samira TV
+https://tv.ipslow.com/tv528_www.elahmad.com_samira_tv/tracks-v1a1/mono.m3u8?token=c77443eeed80f862975ea733d6b4b5edf344a169-32229431cd58426e7d65c1b7e0b63b43-1711972224-1711961424
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfgGxaIVxEOpk--OR79wt0Ndo5boqdf86oKMZiCyYyw&s" group-title="ALGERIA (backup)",El Djazair N1
+https://tv.ipslow.com/tv528_www.elahmad.com_eldjazairn1/tracks-v1a1/mono.m3u8?token=e27381e8bc0d44567f75e235c47c688208bb94e4-ce2253026ce2b22fcce20c332b4b0ec4-1711972287-1711961487
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/El_Bilad_%28journal%29.png" group-title="ALGERIA (backup)",El Bilad TV
+https://cdn1.ipslow.com/tv528_www.elahmad.com_elbilad_tv/tracks-v1a1/mono.m3u8?token=9d42fd380d5854c2eadcd5e53c92e889942ec02a-949cbc69a73f64689c76713697bb4c94-1711972330-1711961530
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/El_Fadjer_TV.png" group-title="ALGERIA (backup)",El Fadjr
+https://tv.ipslow.com/tv528_www.elahmad.com_el_fadjr_tv/tracks-v1a1/mono.m3u8?token=a8f273709eaf6a85a03695c3bb77a137499b0817-0cfb01c28f5da6fe9ec3ce2fcdaf758e-1711972361-1711961561
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/El_Heddaf_TV.jpg" group-title="ALGERIA (backup)",El Heddaf
+https://cdn1.ipslow.com/tv528_www.elahmad.com_elheddaf/tracks-v1a1/mono.m3u8?token=3af3a417093ba429bd8da2357f7831d4300843db-2ce58bf3f7bb34b88870e4dee5cac9ac-1711972380-1711961580
+
+#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1195_1.png" group-title="ART",ART Cinema
+https://cdn1.ipslow.com/tv528_www.elahmad.com_art_cinema/tracks-v1a1/mono.m3u8?token=56ed739dd1002f3d76bb184bdfb402ad84c09d9d-df0fa0754c429dbb8b187567978d993b-1711972468-1711961668
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/ART_Aflam_1.png" group-title="ART",ART Aflam 1
+https://cdn1.ipslow.com/tv528_www.elahmad.com_art_aflam1/tracks-v1a1/mono.m3u8?token=d987d5b1f4e9330b65f02dcc7973ea8cff922e8f-bf42a2f3f52d6e4dc74ae3b1725b255a-1711972492-1711961692
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ART_MOVIES_2.png/revision/latest/scale-to-width-down/275?cb=20150308150753" group-title="ART",ART Aflam 2
+https://cdn1.ipslow.com/tv528_www.elahmad.com_art_aflam2/tracks-v1a1/mono.m3u8?token=b237e9f7d6485f8b5a33f248abd0bc63cc6ab694-d6f36059aa183421177b3cab4548cecf-1711972516-1711961716
+
+#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1122_1.png" group-title="ART",ART Hekayat
+https://cdn1.ipslow.com/tv528_www.elahmad.com_art_hekayat1/tracks-v1a1/mono.m3u8?token=44c2dd6d852b3e85c648ff53416ee1836c0d218f-cbb3964cff2d5110a681636f9e5eaecc-1711972530-1711961730
+
+#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1182_1.png" group-title="ART",ART Hekayat 2
+https://cdn1.ipslow.com/tv528_www.elahmad.com_art_hekayat2/tracks-v1a1/mono.m3u8?token=b37f37234a0c3de0cdaa0c2ab80cf7310a8372ec-67a6241e4fb06226e70177f0ea703eb9-1711972548-1711961748
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/461px-Al_Jazeera.svg.png" group-title="NEWS",Al Jazeera
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Al_Jazeera_Mubasher.png/revision/latest?cb=20120211110554" group-title="NEWS",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Al-Arabiya_new_logo.svg" group-title="NEWS",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdk3UMqubZamJgNenKcaO-B2vROKIifavyumKk09QTQ&s" group-title="NEWS",Al Arabiya Hadath
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2023/10/27/760c5c4c-3d27-44b6-a60a-f0cac80f064b/760c5c4c-3d27-44b6-a60a-f0cac80f064b.jpg?crop=1:1&width=1000" group-title="NEWS",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3RvQX5qfET-nLzco0LkD7r9tSK6zr3QU2V4w7JhVeWv0e6XONUsrtBJrEYktF27lRDE=w600-h300-pc0xffffff-pd" group-title="NEWS",BBC News Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_News_Arabia_logo.svg/2560px-Sky_News_Arabia_logo.svg.png" group-title="NEWS",Sky News Arabic
+https://stream.skynewsarabia.com/hls/sna.m3u8
