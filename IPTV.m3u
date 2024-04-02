@@ -1,3 +1,12 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="VIP",Zina Anime
+http://62.201.210.84:2110/play/a0ds
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="VIP",ONC Animation
+http://62.201.210.84:2110/play/a0fp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="VIP",ONC Cartoon
+http://62.201.210.84:2110/play/a0fn
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC5
 https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
 
