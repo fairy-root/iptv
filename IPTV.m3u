@@ -769,51 +769,6 @@ https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/MuseumTV.svg/revision/latest?cb=20200906175358" group-title="Documentary",Museum
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="ALGERIA (backup)",Canal Algerie
-https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/1200px-Ennahar_TV.svg.png" group-title="ALGERIA (backup)",Ennahar
-https://cdn1.ipslow.com/tv528_www.elahmad.com_ennahar/tracks-v1a1/mono.m3u8?token=1da35844910e849d36dbd2cb1e81b97b613cf028-2e950da2a207dee149b18b780994dcd6-1711971757-1711960957
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg" group-title="ALGERIA (backup)",TV1
-https://tv.ipslow.com/tv528_www.elahmad.com_alegria_1/tracks-v1a1/mono.m3u8?token=8c11e18b3b99ba2f85b0a5ba126baa7011eba6b0-afb768b67a698896afbf959dc22b0bb1-1711971846-1711961046
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="ALGERIA (backup)",TV2
-https://tv.ipslow.com/tv528_www.elahmad.com_alegria_2/tracks-v1a1/mono.m3u8?token=1aea0994c098614e53691255196398ea266372b8-0d9cb9c2cec45952ed8aebe086a4ac30-1711971895-1711961095
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bc/Logo_de_TV3_Alg%C3%A9rie_%282020%29.svg/1200px-Logo_de_TV3_Alg%C3%A9rie_%282020%29.svg.png" group-title="ALGERIA (backup)",TV3
-https://tv.ipslow.com/tv528_www.elahmad.com_alegria_3/tracks-v1a1/mono.m3u8?token=2d328a23751fe15cb8278cc47b97f05b67e9c009-0095f97606005c086aa388eb5901335d-1711971945-1711961145
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_de_TV4_Alg%C3%A9rie_version_arabe_%282020%29.svg/806px-Logo_de_TV4_Alg%C3%A9rie_version_arabe_%282020%29.svg.png" group-title="ALGERIA (backup)",TV4
-https://tv.ipslow.com/tv528_www.elahmad.com_alegria_4/tracks-v1a1/mono.m3u8?token=d21e0076e7e72d3f2bafbcac4fdc7649208f3205-4207d8ce99deb3620b9d2cbbaef60eb0-1711972050-1711961250
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_de_TV5_Alg%C3%A9rie_%282020%29.svg/1200px-Logo_de_TV5_Alg%C3%A9rie_%282020%29.svg.png" group-title="ALGERIA (backup)",TV5
-https://tv.ipslow.com/tv528_www.elahmad.com_alegria_5/tracks-v1a1/mono.m3u8?token=4d063f58476a33889ccb98a5f74e48a04b9b4138-9cf28c7b140afc5c605cfdefc730e454-1711972096-1711961296
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV6_Alg%C3%A9rie_%282020%29.svg/1200px-Logo_de_TV6_Alg%C3%A9rie_%282020%29.svg.png" group-title="ALGERIA (backup)",TV6
-https://tv.ipslow.com/tv528_www.elahmad.com_alegria_6/tracks-v1a1/mono.m3u8?token=a1b97938824283839351e9bc9733a9c00c36337a-e1fab234390fba9439f709e6ec3e31d6-1711972134-1711961334
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/TV7_Algeria_logo_%282020%29.svg/100px-TV7_Algeria_logo_%282020%29.svg.png" group-title="ALGERIA (backup)",TV7
-https://tv.ipslow.com/tv528_www.elahmad.com_alegria_7/tracks-v1a1/mono.m3u8?token=c12ed37773a53e31b7a35883efa59effe4715c63-bc48c8e943dc9f69ded1c098d739f32d-1711972180-1711961380
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/TV8.svg/1200px-TV8.svg.png" group-title="ALGERIA (backup)",TV8
-https://tv.ipslow.com/tv528_www.elahmad.com_alegria_8/tracks-v1a1/mono.m3u8?token=4b4b30639406e0bb02112c8700f84cf1882882df-f26820a5bcc1a636bbbf647afab0a252-1711972205-1711961405
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/2152px-Samira_TV_logo.svg.png" group-title="ALGERIA (backup)",Samira TV
-https://tv.ipslow.com/tv528_www.elahmad.com_samira_tv/tracks-v1a1/mono.m3u8?token=c77443eeed80f862975ea733d6b4b5edf344a169-32229431cd58426e7d65c1b7e0b63b43-1711972224-1711961424
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfgGxaIVxEOpk--OR79wt0Ndo5boqdf86oKMZiCyYyw&s" group-title="ALGERIA (backup)",El Djazair N1
-https://tv.ipslow.com/tv528_www.elahmad.com_eldjazairn1/tracks-v1a1/mono.m3u8?token=e27381e8bc0d44567f75e235c47c688208bb94e4-ce2253026ce2b22fcce20c332b4b0ec4-1711972287-1711961487
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/El_Bilad_%28journal%29.png" group-title="ALGERIA (backup)",El Bilad TV
-https://cdn1.ipslow.com/tv528_www.elahmad.com_elbilad_tv/tracks-v1a1/mono.m3u8?token=9d42fd380d5854c2eadcd5e53c92e889942ec02a-949cbc69a73f64689c76713697bb4c94-1711972330-1711961530
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/El_Fadjer_TV.png" group-title="ALGERIA (backup)",El Fadjr
-https://tv.ipslow.com/tv528_www.elahmad.com_el_fadjr_tv/tracks-v1a1/mono.m3u8?token=a8f273709eaf6a85a03695c3bb77a137499b0817-0cfb01c28f5da6fe9ec3ce2fcdaf758e-1711972361-1711961561
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/El_Heddaf_TV.jpg" group-title="ALGERIA (backup)",El Heddaf
-https://cdn1.ipslow.com/tv528_www.elahmad.com_elheddaf/tracks-v1a1/mono.m3u8?token=3af3a417093ba429bd8da2357f7831d4300843db-2ce58bf3f7bb34b88870e4dee5cac9ac-1711972380-1711961580
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/461px-Al_Jazeera.svg.png" group-title="NEWS",Al Jazeera
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
