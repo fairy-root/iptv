@@ -22,25 +22,25 @@ https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo-Web.png" group-title="Shahid",Dubai One
+#EXTINF:-1 tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo-Web.png" group-title="SHAHID",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_5838936_main.png?v=6" group-title="Shahid",Movies
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_5838936_main.png?v=6" group-title="SHAHID",Movies
 https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/087d8880-6049-4002-a69d-4206b3a7a674/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_6118404_main.png?v=1" group-title="Shahid",Movies Action
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_6118404_main.png?v=1" group-title="SHAHID",Movies Action
 https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/a80ea08a-b724-40a0-9464-da3ec830843f/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_6118406_main.png?v=1" group-title="Shahid",Movies Thriller
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_6118406_main.png?v=1" group-title="SHAHID",Movies Thriller
 https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/81c8c2cd-8fa0-46d0-97f8-7fbd873bf6f6/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_5838941_main.png?v=4" group-title="Shahid",Aflam
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_5838941_main.png?v=4" group-title="SHAHID",Aflam
 https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/4b480cca-08ee-47b1-833c-b8d5f63e25f0/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="Shahid",M6 International
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="SHAHID",M6 International
 https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="Shahid",SpaceToon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="SHAHID",SpaceToon
 https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/61a10e6abb1149ad9d08f303267f9bc4.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS NEWS HD
@@ -127,31 +127,31 @@ https://airmaxtv.online:443/airmaxpro/airmaxprox/324.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="SSC SPORT",SSC 3 Extra ᴴᴰ
 https://airmaxtv.online:443/airmaxpro/airmaxprox/325.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love Nature HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="DOCU",Love Nature HD
 https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love Nature FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="DOCU",Love Nature FHD
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/W-30EQrMtedFNuT_ZYaIHb5uU3VB8OXWmImpV81CUOn6SRZcHxeIHA-6vAHKbNw9uWgxJrkM2sHVdqJCNLUzynw0LqMqkX9KKKuOF_v8VQAXslEC-L40-lpJDU22TCR7bAp1Md4" group-title="Documentary",Love Nature UHD
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/W-30EQrMtedFNuT_ZYaIHb5uU3VB8OXWmImpV81CUOn6SRZcHxeIHA-6vAHKbNw9uWgxJrkM2sHVdqJCNLUzynw0LqMqkX9KKKuOF_v8VQAXslEC-L40-lpJDU22TCR7bAp1Md4" group-title="DOCU",Love Nature UHD
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" group-title="Documentary",Al Jazeera Documentary
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" group-title="DOCU",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2023/08/31/3978221-1624809247.jpg?itok=yLUXwJ4M" group-title="Documentary",Asharq Documentary
+#EXTINF:-1 tvg-logo="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2023/08/31/3978221-1624809247.jpg?itok=yLUXwJ4M" group-title="DOCU",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPJJA86IZFoha3kcEo8j8C7ul-CmL1d1VA1btti27HQ&s" group-title="Documentary",History
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPJJA86IZFoha3kcEo8j8C7ul-CmL1d1VA1btti27HQ&s" group-title="DOCU",History
 http://212.102.60.10/history_channel/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfeB6vULxxng9Lh7xedDS0wKr25k_jpqPnsw&usqp=CAU" group-title="Documentary",Wild Life
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfeB6vULxxng9Lh7xedDS0wKr25k_jpqPnsw&usqp=CAU" group-title="DOCU",Wild Life
 https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHoLc_dsDtdMoWOCe0KcqJbsx011wikn10gQ&usqp=CAU" group-title="Documentary",Wild Earth
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHoLc_dsDtdMoWOCe0KcqJbsx011wikn10gQ&usqp=CAU" group-title="DOCU",Wild Earth
 https://wildearth-roku.amagi.tv/masterR432p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo-Web.png" group-title="Shahid",Dubai One
+#EXTINF:-1 tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo-Web.png" group-title="SHAHID",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CiA3plN" group-title="MBC",MBC1 HD
@@ -757,7 +757,7 @@ https://live.tv247us.com/tv247/showtime.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="USA",Outdoor
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkPINW1u1ZpyfJi-6dsQM5bJhrwFQow4tkJ8zA8_e4A&s" group-title="Documentary",Asharq Discovery
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkPINW1u1ZpyfJi-6dsQM5bJhrwFQow4tkJ8zA8_e4A&s" group-title="DOCU",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="FRANCE",RMC Story
@@ -766,7 +766,7 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Allocin%C3%A9_Logo_%282019%29.svg/1200px-Allocin%C3%A9_Logo_%282019%29.svg.png" group-title="FRANCE",Allo Ciné
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/MuseumTV.svg/revision/latest?cb=20200906175358" group-title="Documentary",Museum
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/MuseumTV.svg/revision/latest?cb=20200906175358" group-title="DOCU",Museum
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/461px-Al_Jazeera.svg.png" group-title="NEWS",Al Jazeera
