@@ -814,21 +814,6 @@ https://tv.ipslow.com/tv528_www.elahmad.com_el_fadjr_tv/tracks-v1a1/mono.m3u8?to
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/El_Heddaf_TV.jpg" group-title="ALGERIA (backup)",El Heddaf
 https://cdn1.ipslow.com/tv528_www.elahmad.com_elheddaf/tracks-v1a1/mono.m3u8?token=3af3a417093ba429bd8da2357f7831d4300843db-2ce58bf3f7bb34b88870e4dee5cac9ac-1711972380-1711961580
 
-#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1195_1.png" group-title="ART",ART Cinema
-https://cdn1.ipslow.com/tv528_www.elahmad.com_art_cinema/tracks-v1a1/mono.m3u8?token=56ed739dd1002f3d76bb184bdfb402ad84c09d9d-df0fa0754c429dbb8b187567978d993b-1711972468-1711961668
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/ART_Aflam_1.png" group-title="ART",ART Aflam 1
-https://cdn1.ipslow.com/tv528_www.elahmad.com_art_aflam1/tracks-v1a1/mono.m3u8?token=d987d5b1f4e9330b65f02dcc7973ea8cff922e8f-bf42a2f3f52d6e4dc74ae3b1725b255a-1711972492-1711961692
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ART_MOVIES_2.png/revision/latest/scale-to-width-down/275?cb=20150308150753" group-title="ART",ART Aflam 2
-https://cdn1.ipslow.com/tv528_www.elahmad.com_art_aflam2/tracks-v1a1/mono.m3u8?token=b237e9f7d6485f8b5a33f248abd0bc63cc6ab694-d6f36059aa183421177b3cab4548cecf-1711972516-1711961716
-
-#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1122_1.png" group-title="ART",ART Hekayat
-https://cdn1.ipslow.com/tv528_www.elahmad.com_art_hekayat1/tracks-v1a1/mono.m3u8?token=44c2dd6d852b3e85c648ff53416ee1836c0d218f-cbb3964cff2d5110a681636f9e5eaecc-1711972530-1711961730
-
-#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1182_1.png" group-title="ART",ART Hekayat 2
-https://cdn1.ipslow.com/tv528_www.elahmad.com_art_hekayat2/tracks-v1a1/mono.m3u8?token=b37f37234a0c3de0cdaa0c2ab80cf7310a8372ec-67a6241e4fb06226e70177f0ea703eb9-1711972548-1711961748
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/461px-Al_Jazeera.svg.png" group-title="NEWS",Al Jazeera
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
