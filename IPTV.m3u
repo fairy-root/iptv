@@ -1,11 +1,98 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="VIP",Zina Anime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Anime
 http://62.201.210.84:2110/play/a0ds
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="VIP",ONC Animation
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",ONC Animation
 http://62.201.210.84:2110/play/a0fp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="VIP",ONC Cartoon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",ONC Cartoon
 http://62.201.210.84:2110/play/a0fn
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Action
+http://62.201.210.84:2110/play/a0e3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Arabic
+http://62.201.210.84:2110/play/a0dr
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Asia
+http://62.201.210.84:2110/play/a0ef
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Asian Series
+http://62.201.210.84:2110/play/a0ee
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Avengers
+http://62.201.210.84:2110/play/a0e4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Bollywood
+http://62.201.210.84:2110/play/a0dt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina BOXOFFICE
+http://62.201.210.84:2110/play/a0eg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Classic
+http://62.201.210.84:2110/play/a0e5
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Comedy
+http://62.201.210.84:2110/play/a0e6
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Cowboy
+http://62.201.210.84:2110/play/a0dy
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Documentary
+http://62.201.210.84:2110/play/a0dw
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Drama
+http://62.201.210.84:2110/play/a0e7
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Family
+http://62.201.210.84:2110/play/a0e8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Gaiming
+http://62.201.210.84:2110/play/a0ga
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Gym
+http://62.201.210.84:2110/play/a0dv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina HISTORICAL
+http://62.201.210.84:2110/play/a0e9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina HORROR
+http://62.201.210.84:2110/play/a0ea
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Kids
+http://62.201.210.84:2110/play/a0eb
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Love
+http://62.201.210.84:2110/play/a0gc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Movies
+http://62.201.210.84:2110/play/a0dq
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Music AR
+http://62.201.210.84:2110/play/a0ec
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Musicly
+http://62.201.210.84:2110/play/a0g7
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Quran
+http://62.201.210.84:2110/play/a0gb
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina SCI-FI
+http://62.201.210.84:2110/play/a0ed
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina TOP-TEN
+http://62.201.210.84:2110/play/a0dp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Tube
+http://62.201.210.84:2110/play/a0g8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Turkey
+http://62.201.210.84:2110/play/a0g9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina War
+http://62.201.210.84:2110/play/a0dx
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",,Zina WWE
+http://62.201.210.84:2110/play/a0du
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC5
 https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
@@ -52,61 +139,61 @@ https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="SHAHID",SpaceToon
 https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/61a10e6abb1149ad9d08f303267f9bc4.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/61a10e6abb1149ad9d08f303267f9bc4.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports NEWS HD
 https://airmaxtv.online:443/airmaxpro/airmaxprox/582.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/d78bded526b07ede88675c6412d63f3d.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/d78bded526b07ede88675c6412d63f3d.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports HD
 https://airmaxtv.online:443/airmaxpro/airmaxprox/583.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png?ver=06-02-2024" group-title="Bein Sports",beIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 1
 https://airmaxtv.online:443/airmaxpro/airmaxprox/306.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 2
 https://airmaxtv.online:443/airmaxpro/airmaxprox/307.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 3
 https://airmaxtv.online:443/airmaxpro/airmaxprox/308.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 4
 https://airmaxtv.online:443/airmaxpro/airmaxprox/309.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 4.
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 4.
 https://airmaxtv.online:443/airmaxpro/airmaxprox/310.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 5
 https://airmaxtv.online:443/airmaxpro/airmaxprox/311.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 6
 https://airmaxtv.online:443/airmaxpro/airmaxprox/312.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 7
 https://airmaxtv.online:443/airmaxpro/airmaxprox/313.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 8
 https://airmaxtv.online:443/airmaxpro/airmaxprox/314.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS 9
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports 9
 https://airmaxtv.online:443/airmaxpro/airmaxprox/315.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/a501bebf79d570651ff601788ea9d16d.png?ver=06-02-2024" group-title="Bein Sports",beIN Sport XTRA 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/a501bebf79d570651ff601788ea9d16d.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports Extra 1 HD
 https://airmaxtv.online:443/airmaxpro/airmaxprox/584.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.png?ver=06-02-2024" group-title="Bein Sports",BeIN Sports Extra 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports Extra 2 FHD
 https://airmaxtv.online:443/airmaxpro/airmaxprox/585.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/6a971e08a01e6676d0f1a6e0dacbbd67.png?ver=06-02-2024" group-title="Bein Sports",Bein Sports English HD1
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/6a971e08a01e6676d0f1a6e0dacbbd67.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports English HD1
 https://airmaxtv.online:443/airmaxpro/airmaxprox/586.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.png?ver=06-02-2024" group-title="Bein Sports",Bein Sports English HD2
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports English HD2
 https://airmaxtv.online:443/airmaxpro/airmaxprox/587.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.png?ver=06-02-2024" group-title="Bein Sports",Bein Sports English HD3
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports English HD3
 https://airmaxtv.online:443/airmaxpro/airmaxprox/588.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS French HD1
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports French HD1
 https://airmaxtv.online:443/airmaxpro/airmaxprox/589.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.png?ver=06-02-2024" group-title="Bein Sports",BEIN SPORTS French HD2
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports French HD2
 https://airmaxtv.online:443/airmaxpro/airmaxprox/316.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_news.jpg" group-title="SSC SPORT",SSC News ᴴᴰ
@@ -643,73 +730,10 @@ https://algerian-iptv.uk:443/sami/sami2/62.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://algerian-iptv.uk:443/images/7615b1a18f47c15c36d6bb5cfbc14c1c.jpg" group-title="ALGERIAN",OUM WALID
 https://algerian-iptv.uk:443/sami/sami2/60.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 1 HD
-https://algerian-iptv.uk:443/sami/sami2/180.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 2 HD
-https://algerian-iptv.uk:443/sami/sami2/181.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 3 HD
-https://algerian-iptv.uk:443/sami/sami2/182.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 4 HD
-https://algerian-iptv.uk:443/sami/sami2/183.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 5 HD
-https://algerian-iptv.uk:443/sami/sami2/184.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 6 HD
-https://algerian-iptv.uk:443/sami/sami2/185.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 7 HD
-https://algerian-iptv.uk:443/sami/sami2/186.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 8 HD
-https://algerian-iptv.uk:443/sami/sami2/187.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 9 HD
-https://algerian-iptv.uk:443/sami/sami2/189.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS 11 HD
-https://algerian-iptv.uk:443/sami/sami2/190.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS", BEIN XTRA 1
-https://algerian-iptv.uk:443/sami/sami2/188.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS",Sharjah SPORTS
-https://algerian-iptv.uk:443/sami/sami2/234.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS",SSC SPORTS 1 HD
-https://algerian-iptv.uk:443/sami/sami2/178.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS",SSC SPORTS 2 HD
-https://algerian-iptv.uk:443/sami/sami2/349.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS",SSC SPORTS 3 HD
-https://algerian-iptv.uk:443/sami/sami2/350.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS",SSC SPORTS 5
-https://algerian-iptv.uk:443/sami/sami2/348.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://aumaletv.com:25461/Chemsou1302/chemsou1302/58296n=1&type=webp" group-title="BEIN SPORTS",SSC EXTRA 1 HD
-https://algerian-iptv.uk:443/sami/sami2/177.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS",SSC EXTRA 2
-https://algerian-iptv.uk:443/sami/sami2/235.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS",AD SPORTS 1
-https://algerian-iptv.uk:443/sami/sami2/179.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS",AD SPORTS PREMIUM 1
-https://algerian-iptv.uk:443/sami/sami2/236.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS",AD SPORTS PREMIUM 2
-https://algerian-iptv.uk:443/sami/sami2/289.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",beIN SPORTS 1 HD FR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Bein Sports 1 HD FR
 https://algerian-iptv.uk:443/sami/sami2/355.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",beIN SPORTS 2 HD FR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Bein Sports 2 HD FR
 https://algerian-iptv.uk:443/sami/sami2/356.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CANAL + FOOT
