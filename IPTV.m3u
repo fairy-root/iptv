@@ -118,26 +118,12 @@ https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo-Web.png" group-title="SHAHID",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_5838936_main.png?v=6" group-title="SHAHID",Movies
-https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/087d8880-6049-4002-a69d-4206b3a7a674/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_6118404_main.png?v=1" group-title="SHAHID",Movies Action
-https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/a80ea08a-b724-40a0-9464-da3ec830843f/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_6118406_main.png?v=1" group-title="SHAHID",Movies Thriller
-https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/81c8c2cd-8fa0-46d0-97f8-7fbd873bf6f6/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/cards/c1313441_5838941_main.png?v=4" group-title="SHAHID",Aflam
-https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/4b480cca-08ee-47b1-833c-b8d5f63e25f0/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="SHAHID",M6 International
-https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="SHAHID",SpaceToon
-https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/61a10e6abb1149ad9d08f303267f9bc4.png?ver=06-02-2024" group-title="BEIN SPORTS",Bein Sports NEWS HD
 https://airmaxtv.online:443/airmaxpro/airmaxprox/582.ts
@@ -247,8 +233,6 @@ https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHoLc_dsDtdMoWOCe0KcqJbsx011wikn10gQ&usqp=CAU" group-title="DOCU",Wild Earth
 https://wildearth-roku.amagi.tv/masterR432p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo-Web.png" group-title="SHAHID",Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CiA3plN" group-title="MBC",MBC1 HD
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
@@ -300,6 +284,179 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nLtiXNf" group-title="MBC",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID",رمضان معانا خليجي
+https://shls-live-ak.akamaized.net/out/v1/0fcbe9a01dc6474cbec18c1027326c50/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID",رمضان معانا مسلسلات
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID",قناة فريج
+https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID",Desi Play
+https://shls-live-ak.akamaized.net/out/v1/05f3eb584b674d8099779eabb6521b58/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uVcpNR" group-title="SHAHID",Al Hisn
+https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40O5RfN" group-title="SHAHID",قناة اللعبة
+https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ujjzLv" group-title="SHAHID",أصلي و حصري
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3R2BI9o" group-title="SHAHID",الكبير أوي
+https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/411XMV5" group-title="SHAHID",قناة واي فاي
+https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/46mOVhR" group-title="SHAHID",Selfie
+https://shls-live-ak.akamaized.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MkGr3i" group-title="SHAHID",Bollywood HD
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45RBFBs" group-title="SHAHID",Bollywood Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZTlEJO" group-title="SHAHID",Ragel We Set Settat
+https://cdxaws-ak.akamaized.net/v1/channel/Ragel_We_Set_Settat_Channel/index_hls.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RzSw8r" group-title="SHAHID",Nature Time
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48uElHy" group-title="SHAHID",الثقافية
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PnWMGo" group-title="SHAHID",BBC S Top Gear
+https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="SHAHID",افلام
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oT47na" group-title="SHAHID",Maraya
+https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N3ztkh" group-title="SHAHID",Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Mtikjq" group-title="SHAHID",Movies Thriller
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I8bVI8" group-title="SHAHID",Mohammed Abdou
+https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3nWOfj5" group-title="SHAHID",Rashed ALmajed
+https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44WN5EV" group-title="SHAHID",Abdulmajeed Abdullah
+https://abdulmajeed-abdullah-ak.akamaized.net/out/v1/b5759c5db43d4d10b382a4bc2b337ab5/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mWWmLU" group-title="SHAHID",Masrah Mas
+https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JzwsVT" group-title="SHAHID",Al Asouf
+https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I7f2z7" group-title="SHAHID",Bab Al Hara
+https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/shahid/Tash.png" group-title="SHAHID",Tash
+https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Kj7Z9c" group-title="SHAHID",Al Hayba
+https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lGIS5Y" group-title="SHAHID",Ramez
+https://cdxaws-ak.akamaized.net/v1/channel/Ramez/index_hls.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://e.top4top.io/p_2581kcj7y2.png" group-title="SHAHID",Hassino
+https://cdxaws-ak.akamaized.net/v1/channel/Hassino_/index_hls.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://d.top4top.io/p_2581s0z0n1.png" group-title="SHAHID",Top Chef
+https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KgyUlS" group-title="SHAHID",أفلام
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xw0DYl" group-title="SHAHID",movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ixthyq" group-title="SHAHID",WWE
+https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/416oo72" group-title="SHAHID",Naser Al Qassaby
+https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Sj376i" group-title="SHAHID",عادل امام
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 01" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 01
+https://airmaxtv.online:443/airmaxpro/airmaxprox/476.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 02" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 02
+https://airmaxtv.online:443/airmaxpro/airmaxprox/477.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 03" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 03
+https://airmaxtv.online:443/airmaxpro/airmaxprox/478.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 04" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 04
+https://airmaxtv.online:443/airmaxpro/airmaxprox/479.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 05" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 05
+https://airmaxtv.online:443/airmaxpro/airmaxprox/480.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 06" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 06
+https://airmaxtv.online:443/airmaxpro/airmaxprox/481.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 07" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 07
+https://airmaxtv.online:443/airmaxpro/airmaxprox/482.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 08" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 08
+https://airmaxtv.online:443/airmaxpro/airmaxprox/483.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 09" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 09
+https://airmaxtv.online:443/airmaxpro/airmaxprox/484.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 10" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 10
+https://airmaxtv.online:443/airmaxpro/airmaxprox/485.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 11" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 11
+https://airmaxtv.online:443/airmaxpro/airmaxprox/486.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 12" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 12
+https://airmaxtv.online:443/airmaxpro/airmaxprox/487.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 13" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 13
+https://airmaxtv.online:443/airmaxpro/airmaxprox/488.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 14" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 14
+https://airmaxtv.online:443/airmaxpro/airmaxprox/489.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 15" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 15
+https://airmaxtv.online:443/airmaxpro/airmaxprox/490.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 16" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 16
+https://airmaxtv.online:443/airmaxpro/airmaxprox/491.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip 17" tvg-logo="https://airmaxtv.online:443/images/35b9e5f0fd98a01b9dcf115a214ebf3e.png" group-title="SHAHID",Shahid vip 17
+https://airmaxtv.online:443/airmaxpro/airmaxprox/492.ts
+#EXTINF:-1 tvg-id="" tvg-name="action 01" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="SHAHID",Action 01
+https://airmaxtv.online:443/airmaxpro/airmaxprox/493.ts
+#EXTINF:-1 tvg-id="" tvg-name="action 02" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="SHAHID",Action 02
+https://airmaxtv.online:443/airmaxpro/airmaxprox/494.ts
+#EXTINF:-1 tvg-id="" tvg-name="action 03" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="SHAHID",Action 03
+https://airmaxtv.online:443/airmaxpro/airmaxprox/495.ts
+#EXTINF:-1 tvg-id="" tvg-name="action 04" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="SHAHID",Action 04
+https://airmaxtv.online:443/airmaxpro/airmaxprox/496.ts
+#EXTINF:-1 tvg-id="" tvg-name="action 05" tvg-logo="https://airmaxtv.online:443/images/5fda894499e45f1bc2894f44cbfdea75.png" group-title="SHAHID",Action 05
+https://airmaxtv.online:443/airmaxpro/airmaxprox/497.ts
+#EXTINF:-1 tvg-id="" tvg-name="comedy 01" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="SHAHID",Comedy 01
+https://airmaxtv.online:443/airmaxpro/airmaxprox/498.ts
+#EXTINF:-1 tvg-id="" tvg-name="comedy 02" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="SHAHID",Comedy 02
+https://airmaxtv.online:443/airmaxpro/airmaxprox/499.ts
+#EXTINF:-1 tvg-id="" tvg-name="comedy 03" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="SHAHID",Comedy 03
+https://airmaxtv.online:443/airmaxpro/airmaxprox/500.ts
+#EXTINF:-1 tvg-id="" tvg-name="comedy 04" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="SHAHID",Comedy 04
+https://airmaxtv.online:443/airmaxpro/airmaxprox/501.ts
+#EXTINF:-1 tvg-id="" tvg-name="comedy 05" tvg-logo="https://airmaxtv.online:443/images/ee601d209c5a4b8d4ed9cd071a792bf8.png" group-title="SHAHID",Comedy 05
+https://airmaxtv.online:443/airmaxpro/airmaxprox/502.ts
+#EXTINF:-1 tvg-id="" tvg-name="drama 01" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="SHAHID",Drama 01
+https://airmaxtv.online:443/airmaxpro/airmaxprox/503.ts
+#EXTINF:-1 tvg-id="" tvg-name="drama 02" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="SHAHID",Drama 02
+https://airmaxtv.online:443/airmaxpro/airmaxprox/504.ts
+#EXTINF:-1 tvg-id="" tvg-name="drama 03" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="SHAHID",Drama 03
+https://airmaxtv.online:443/airmaxpro/airmaxprox/505.ts
+#EXTINF:-1 tvg-id="" tvg-name="drama 04" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="SHAHID",Drama 04
+https://airmaxtv.online:443/airmaxpro/airmaxprox/506.ts
+#EXTINF:-1 tvg-id="" tvg-name="drama 05" tvg-logo="https://airmaxtv.online:443/images/cce5f05ff5cb87c566bc502986558ac2.png" group-title="SHAHID",Drama 05
+https://airmaxtv.online:443/airmaxpro/airmaxprox/507.ts
+#EXTINF:-1 tvg-id="" tvg-name="horror 01" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="SHAHID",Horror 01
+https://airmaxtv.online:443/airmaxpro/airmaxprox/508.ts
+#EXTINF:-1 tvg-id="" tvg-name="horror 02" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="SHAHID",Horror 02
+https://airmaxtv.online:443/airmaxpro/airmaxprox/509.ts
+#EXTINF:-1 tvg-id="" tvg-name="horror 03" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="SHAHID",Horror 03
+https://airmaxtv.online:443/airmaxpro/airmaxprox/510.ts
+#EXTINF:-1 tvg-id="" tvg-name="horror 04" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="SHAHID",Horror 04
+https://airmaxtv.online:443/airmaxpro/airmaxprox/511.ts
+#EXTINF:-1 tvg-id="" tvg-name="horror 05" tvg-logo="https://airmaxtv.online:443/images/4f2c1e031621cc56dd4c2b2e2499f246.png" group-title="SHAHID",Horror 05
+https://airmaxtv.online:443/airmaxpro/airmaxprox/512.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid vip action 01" tvg-logo="https://airmaxtv.online:443/images/ac9a67f81fd8a68c03a5c26cb91f6071.png" group-title="SHAHID",Shahid vip action 01
+https://airmaxtv.online:443/airmaxpro/airmaxprox/513.ts
+#EXTINF:-1 tvg-id="" tvg-name="01 شاهد تركي" tvg-logo="https://airmaxtv.online:443/images/ac9a67f81fd8a68c03a5c26cb91f6071.png" group-title="SHAHID",01 شاهد تركي
+https://airmaxtv.online:443/airmaxpro/airmaxprox/514.ts
+#EXTINF:-1 tvg-id="" tvg-name="شاهد تركي 02" tvg-logo="https://airmaxtv.online:443/images/ac9a67f81fd8a68c03a5c26cb91f6071.png" group-title="SHAHID",شاهد تركي 02
+https://airmaxtv.online:443/airmaxpro/airmaxprox/515.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid] Action 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="SHAHID",Shahid Action 1
+https://airmaxtv.online:443/airmaxpro/airmaxprox/562.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid] Adventure 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="SHAHID",Shahid Adventure 1
+https://airmaxtv.online:443/airmaxpro/airmaxprox/563.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid] Comedy 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="SHAHID",Shahid Comedy 1
+https://airmaxtv.online:443/airmaxpro/airmaxprox/564.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid] Drama 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="SHAHID",Shahid Drama 1
+https://airmaxtv.online:443/airmaxpro/airmaxprox/565.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid] Drama 2" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="SHAHID",Shahid Drama 2
+https://airmaxtv.online:443/airmaxpro/airmaxprox/566.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid] Family 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="SHAHID",Shahid Family 1
+https://airmaxtv.online:443/airmaxpro/airmaxprox/567.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid] Horror 1" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="SHAHID",Shahid Horror 1
+https://airmaxtv.online:443/airmaxpro/airmaxprox/568.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid] Sci Fi" tvg-logo="https://airmaxtv.online:443/images/7dc022d6d2ba6909979698e9d164e7ae.jpg" group-title="SHAHID",Shahid Sci Fi
+https://airmaxtv.online:443/airmaxpro/airmaxprox/569.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid_action.mp4" tvg-logo="" group-title="SHAHID",Shahid action.mp4
+https://airmaxtv.online:443/airmaxpro/airmaxprox/570.ts
+#EXTINF:-1 tvg-id="" tvg-name="shahid_romance.mp4" tvg-logo="" group-title="SHAHID",Shahid Romance
+https://airmaxtv.online:443/airmaxpro/airmaxprox/571.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/H4h6184" group-title="USA",BET
 http://170.254.18.106/BET/index.m3u8
