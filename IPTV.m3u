@@ -56,6 +56,18 @@ https://airmaxtv.online:443/airmaxpro/airmaxprox/324.ts
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="SSC SPORT",SSC 3 Extra ᴴᴰ
 https://airmaxtv.online:443/airmaxpro/airmaxprox/325.ts
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="SPORTS", SKY Sports Premier League
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30493&extension=ts&skysport_pl
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="SPORTS", TNT Sports 1 (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30567&extension=ts&tntsport_1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="SPORTS", TNT Sports 2 (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30566&extension=ts&tntsport_2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="SPORTS", TNT Sports 3 (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30565&extension=ts&tntsport_3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="SPORTS", TNT Sports 4 (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30564&extension=ts&tntsport_4
+#EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="SPORTS", BEIN 4K (VPN Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=706541&extension=ts
 #EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
 #EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",RMTV ES
