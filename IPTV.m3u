@@ -210,7 +210,7 @@ https://airmaxtv.online:443/airmaxpro/airmaxprox/324.ts
 https://airmaxtv.online:443/airmaxpro/airmaxprox/325.ts
 
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/W-30EQrMtedFNuT_ZYaIHb5uU3VB8OXWmImpV81CUOn6SRZcHxeIHA-6vAHKbNw9uWgxJrkM2sHVdqJCNLUzynw0LqMqkX9KKKuOF_v8VQAXslEC-L40-lpJDU22TCR7bAp1Md4" group-title="DOCU",Love Nature UHD
-https://raw.githubusercontent.com/fairy-root/love-nature/main/lovenature.txt?token=GHSAT0AAAAAACNXJY6PQ54JR44RH2RW5WEIZQMWRYA
+https://raw.githubusercontent.com/fairy-root/love-nature/main/lovenature.txt
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" group-title="DOCU",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/05.m3u8
