@@ -56,6 +56,25 @@ https://airmaxtv.online:443/airmaxpro/airmaxprox/324.ts
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="SSC SPORT",SSC 3 Extra ᴴᴰ
 https://airmaxtv.online:443/airmaxpro/airmaxprox/325.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 1
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 2
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 3
+https://donelfantastic.github.io/live/skysportsNz3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 4
+https://donelfantastic.github.io/live/skysportsNz4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 5
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 6
+https://donelfantastic.github.io/live/skysportsNz6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 7
+https://donelfantastic.github.io/live/skysportsNz7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 8
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 9
+https://donelfantastic.github.io/live/skysportsNz9.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Movies
 http://62.201.210.84:2110/play/a0dq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Arabic
@@ -455,62 +474,28 @@ https://airmaxtv.online:443/airmaxpro/airmaxprox/571.ts
 https://algerian-iptv.uk:443/sami/sami2/3.ts
 #EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/aecb789b763f72b6ad042e64f1fc51f9.png" group-title="ALGERIA",CANAL ALGERIE
 https://algerian-iptv.uk:443/sami/sami2/2.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/220e4de29105912f5718e7594c3b3ca3.png" group-title="ALGERIA",A3 ALGERIE
-https://algerian-iptv.uk:443/sami/sami2/4.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",AL24 NEWS
-https://algerian-iptv.uk:443/sami/sami2/8.ts
 #EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/b68cae46e6b9697e26404deba4ae4d28.png" group-title="ALGERIA",ALGERIE 4
 https://algerian-iptv.uk:443/sami/sami2/16.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/ba6f26bb0e5d3ee6162a01cae0679db9.png" group-title="ALGERIA",ALGERIE 5
-https://algerian-iptv.uk:443/sami/sami2/17.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/8c610ff5e0e89a071c620ea2ff346b6f.jpg" group-title="ALGERIA",ALGERIE 6
-https://algerian-iptv.uk:443/sami/sami2/18.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",ELMAARIFA TV7
-https://algerian-iptv.uk:443/sami/sami2/24.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",AR l ALGERIE EDHAKIRA TV8⁺⁶ʰ
-https://algerian-iptv.uk:443/sami/sami2/41.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/52bb2250b26ea508df94e6a502fc4d76.png" group-title="ALGERIA",AR l ECHOUROUK NEWS⁺⁶ʰ
+#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/52bb2250b26ea508df94e6a502fc4d76.png" group-title="ALGERIA",ECHOUROUK NEWS
 https://algerian-iptv.uk:443/sami/sami2/45.ts
 #EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",ECHOUROUK TV
 https://algerian-iptv.uk:443/sami/sami2/6.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/8f4124a7fd2fc372b6f5357e8944e9c1.png" group-title="ALGERIA",ENNAHAR ALGERIE
+#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/8f4124a7fd2fc372b6f5357e8944e9c1.png" group-title="ALGERIA",ENNAHAR
 https://algerian-iptv.uk:443/sami/sami2/12.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/8b1d4b86978a6cae7bcb947e2952c157.png" group-title="ALGERIA",EL HEDDAF
-https://algerian-iptv.uk:443/sami/sami2/10.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/8533f6cef3c80f94e6f1b3e709913791.png" group-title="ALGERIA",EL BILAD
-https://algerian-iptv.uk:443/sami/sami2/11.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/32b1a02dfd848c6e39a5a2e308bebb34.png" group-title="ALGERIA",El HAYAT ALGERIA
+#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/32b1a02dfd848c6e39a5a2e308bebb34.png" group-title="ALGERIA",El HAYAT
 https://algerian-iptv.uk:443/sami/sami2/21.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/f66556e187f27da6bec22aed2cb236c9.png" group-title="ALGERIA",BAHIA TV
-https://algerian-iptv.uk:443/sami/sami2/14.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/3b802450f5c7ef7eb10f0fe78c50307e.png" group-title="ALGERIA",BERBERE TV
-https://algerian-iptv.uk:443/sami/sami2/15.ts
 #EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",DJAZAIR N1
 https://algerian-iptv.uk:443/sami/sami2/22.ts
 #EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",EL FADJER DRAMA DZ
 https://algerian-iptv.uk:443/sami/sami2/20.ts
 #EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",EL WATANIA TV
 https://algerian-iptv.uk:443/sami/sami2/26.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",SALAM TV
-https://algerian-iptv.uk:443/sami/sami2/25.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/ac14dbddcb7b9a6ddad8bdededc1d34f.png" group-title="ALGERIA",SAMIRA TV
-https://algerian-iptv.uk:443/sami/sami2/9.ts
 #EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",ZAHRA TV
 https://algerian-iptv.uk:443/sami/sami2/23.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",AR l AL ANIS TV⁺⁶ʰ
+#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",AL ANIS TV
 https://algerian-iptv.uk:443/sami/sami2/57.ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.f265862a4bbe119e37fe8673a1fe6353?rik=yGwQcIfS1cvxpw&riu=http%3a%2f%2fwww.amouyazid.com%2f_enigme%2fimages%2flogo-170x120.png&ehk=O3DaHjFx6W7D7c9rpRYStmcIO69M8DEiKkaP%2fFmWCx8%3d&risl=&pid=ImgRaw&r=0" group-title="ALGERIA",Amou Yazid Kids
 https://algerian-iptv.uk:443/sami/sami2/59.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",ALGERIA ELIKTISADIA EL OULA
-https://algerian-iptv.uk:443/sami/sami2/7.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/9c36a32d375aad8ab5709a0d953dcce7.png" group-title="ALGERIA",JEEL DZ TV
-https://algerian-iptv.uk:443/sami/sami2/31.ts
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ef4904fd61979cdda6064259e0d3d7ad?rik=AuJa9EeHZwWVKA&pid=ImgRaw&r=0" group-title="ALGERIA",MIX AFLAM
-https://algerian-iptv.uk:443/sami/sami2/61.ts
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.uGJzkgXjdpE63fjaQLse1QHaCr?pid=ImgDet&rs=1" group-title="ALGERIA",NAT GEO WILD
-https://algerian-iptv.uk:443/sami/sami2/62.ts
-#EXTINF:-1 tvg-logo="https://algerian-iptv.uk:443/images/7615b1a18f47c15c36d6bb5cfbc14c1c.jpg" group-title="ALGERIA",OUM WALID
-https://algerian-iptv.uk:443/sami/sami2/60.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/461px-Al_Jazeera.svg.png" group-title="NEWS",Al Jazeera
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
@@ -765,22 +750,12 @@ https://algerian-iptv.uk:443/sami/sami2/357.ts
 https://algerian-iptv.uk:443/sami/sami2/358.ts
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",CANAL + SPORTS
 https://algerian-iptv.uk:443/sami/sami2/359.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",CANAL + SPORTS 2
-https://algerian-iptv.uk:443/sami/sami2/360.ts
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",CANAL + SPORTS 360
 https://algerian-iptv.uk:443/sami/sami2/361.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",TF1 FHD
-https://algerian-iptv.uk:443/sami/sami2/362.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",TF1 SERIES & FILM
-https://algerian-iptv.uk:443/sami/sami2/363.ts
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",RMC SPORTS 1
 https://algerian-iptv.uk:443/sami/sami2/364.ts
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",RMC SPORTS 2
 https://algerian-iptv.uk:443/sami/sami2/365.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",NAT GEO
-https://algerian-iptv.uk:443/sami/sami2/366.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",NAT GEO WILD
-https://algerian-iptv.uk:443/sami/sami2/367.ts
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",RMC DÉCOUVERTE
 https://algerian-iptv.uk:443/sami/sami2/368.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="FRANCE",RMC Story
