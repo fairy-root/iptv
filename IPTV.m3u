@@ -89,7 +89,7 @@ http://62.201.210.84:2110/play/a0du
 http://62.201.210.84:2110/play/a0dv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", ZINA Documentary
 http://62.201.210.84:2110/play/a0dw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",War
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA War
 http://62.201.210.84:2110/play/a0dx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Cowboy
 http://62.201.210.84:2110/play/a0dy
@@ -254,7 +254,7 @@ https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/i
 https://mbc1na-prod-dub-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png" group-title="MBC",MBC Drama
 https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/1481ac1b-90f0-4701-be9d-c15c01758b09/4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_MBC_Drama_%2B.png" group-title="MBC",MBC+ Drama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_MBC_Drama_%2B.png" group-title="MBC",MBC Plus Drama
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5e/MBC4_LOGO.jpg" group-title="MBC",MBC4
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
