@@ -56,25 +56,6 @@ https://airmaxtv.online:443/airmaxpro/airmaxprox/324.ts
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="SSC SPORT",SSC 3 Extra ᴴᴰ
 https://airmaxtv.online:443/airmaxpro/airmaxprox/325.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 1
-https://donelfantastic.github.io/live/skysportsNz1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 2
-https://donelfantastic.github.io/live/skysportsNz2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 3
-https://donelfantastic.github.io/live/skysportsNz3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 4
-https://donelfantastic.github.io/live/skysportsNz4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 5
-https://donelfantastic.github.io/live/skysportsNz5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 6
-https://donelfantastic.github.io/live/skysportsNz6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 7
-https://donelfantastic.github.io/live/skysportsNz7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 8
-https://donelfantastic.github.io/live/skysportsNz8.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 9
-https://donelfantastic.github.io/live/skysportsNz9.m3u8
-
 #EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
 #EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",RMTV ES
