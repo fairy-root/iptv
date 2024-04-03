@@ -1,98 +1,230 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Anime
-http://62.201.210.84:2110/play/a0ds
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",ONC Animation
-http://62.201.210.84:2110/play/a0fp
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",ONC Cartoon
-http://62.201.210.84:2110/play/a0fn
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Action
-http://62.201.210.84:2110/play/a0e3
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Arabic
-http://62.201.210.84:2110/play/a0dr
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Asia
-http://62.201.210.84:2110/play/a0ef
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Asian Series
-http://62.201.210.84:2110/play/a0ee
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Avengers
-http://62.201.210.84:2110/play/a0e4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Bollywood
-http://62.201.210.84:2110/play/a0dt
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina BOXOFFICE
-http://62.201.210.84:2110/play/a0eg
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Classic
-http://62.201.210.84:2110/play/a0e5
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Comedy
-http://62.201.210.84:2110/play/a0e6
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Cowboy
-http://62.201.210.84:2110/play/a0dy
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Documentary
-http://62.201.210.84:2110/play/a0dw
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Drama
-http://62.201.210.84:2110/play/a0e7
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Family
-http://62.201.210.84:2110/play/a0e8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Gaiming
-http://62.201.210.84:2110/play/a0ga
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Gym
-http://62.201.210.84:2110/play/a0dv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina HISTORICAL
-http://62.201.210.84:2110/play/a0e9
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina HORROR
-http://62.201.210.84:2110/play/a0ea
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Kids
-http://62.201.210.84:2110/play/a0eb
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Love
-http://62.201.210.84:2110/play/a0gc
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Movies
 http://62.201.210.84:2110/play/a0dq
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Music AR
-http://62.201.210.84:2110/play/a0ec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Arabic
+http://62.201.210.84:2110/play/a0dr
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Musicly
-http://62.201.210.84:2110/play/a0g7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Animation
+http://62.201.210.84:2110/play/a0ds
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Quran
-http://62.201.210.84:2110/play/a0gb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", ZINA Bollywood
+http://62.201.210.84:2110/play/a0dt
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina SCI-FI
-http://62.201.210.84:2110/play/a0ed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Ramadan 1
+http://62.201.210.84:2110/play/a0du
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina TOP-TEN
-http://62.201.210.84:2110/play/a0dp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Gym
+http://62.201.210.84:2110/play/a0dv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Tube
-http://62.201.210.84:2110/play/a0g8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", ZINA Documentary
+http://62.201.210.84:2110/play/a0dw
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina Turkey
-http://62.201.210.84:2110/play/a0g9
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",Zina War
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",War
 http://62.201.210.84:2110/play/a0dx
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" group-title="ZINA",,Zina WWE
-http://62.201.210.84:2110/play/a0du
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Cowboy
+http://62.201.210.84:2110/play/a0dy
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix France
+http://62.201.210.84:2110/play/a0dz
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Horror 
+http://62.201.210.84:2110/play/a0ea
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", ZINA Music Arabic
+http://62.201.210.84:2110/play/a0ec
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Sci-fi
+http://62.201.210.84:2110/play/a0ed
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Asian Series
+http://62.201.210.84:2110/play/a0ee
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Asia
+http://62.201.210.84:2110/play/a0ef
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Box Office
+http://62.201.210.84:2110/play/a0eg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix España
+http://62.201.210.84:2110/play/a0e0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix Kids
+http://62.201.210.84:2110/play/a0e1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix Asian
+http://62.201.210.84:2110/play/a0e2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Action
+http://62.201.210.84:2110/play/a0e3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Avengers
+http://62.201.210.84:2110/play/a0e4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Classic
+http://62.201.210.84:2110/play/a0e5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Comedy
+http://62.201.210.84:2110/play/a0e6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Ramadan 2
+http://62.201.210.84:2110/play/a0e7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Family
+http://62.201.210.84:2110/play/a0e8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA History
+http://62.201.210.84:2110/play/a0e9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Plus
+http://62.201.210.84:2110/play/a0fa
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Gym
+http://62.201.210.84:2110/play/a0fb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",4TH Quran
+http://62.201.210.84:2110/play/a0fc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",4TH Movies
+http://62.201.210.84:2110/play/a0fd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",4TH Series EN
+http://62.201.210.84:2110/play/a0fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",4TH Geographic
+http://62.201.210.84:2110/play/a0ff
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",4TH Variety
+http://62.201.210.84:2110/play/a0fg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",4TH Music
+http://62.201.210.84:2110/play/a0fh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Premium
+http://62.201.210.84:2110/play/a0fi
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Riwayat
+http://62.201.210.84:2110/play/a0fj
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Cinema
+http://62.201.210.84:2110/play/a0fk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Horror
+http://62.201.210.84:2110/play/a0fl
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Classic
+http://62.201.210.84:2110/play/a0fm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Cartoon
+http://62.201.210.84:2110/play/a0fn
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Asia
+http://62.201.210.84:2110/play/a0fo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Animation
+http://62.201.210.84:2110/play/a0fp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Series
+http://62.201.210.84:2110/play/a0fq
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Bollywood
+http://62.201.210.84:2110/play/a0fr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Turkey Max
+http://62.201.210.84:2110/play/a0fs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Turkey Dubbed
+http://62.201.210.84:2110/play/a0ft
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Movie
+http://62.201.210.84:2110/play/a0fu
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Drama
+http://62.201.210.84:2110/play/a0fv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",4TH Nojoom
+http://62.201.210.84:2110/play/a0fw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC History
+http://62.201.210.84:2110/play/a0f8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ONC Comedy
+http://62.201.210.84:2110/play/a0f9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Gaming
+http://62.201.210.84:2110/play/a0ga
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Quran
+http://62.201.210.84:2110/play/a0gb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Love
+http://62.201.210.84:2110/play/a0gc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",SKY Cinema Animation
+http://62.201.210.84:2110/play/a0gd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",SKY Cinema Hits
+http://62.201.210.84:2110/play/a0ge
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",SKY Cinema Premier
+http://62.201.210.84:2110/play/a0gf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",SKY Cinema Action
+http://62.201.210.84:2110/play/a0gg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",SKY Cinema Sci-fi Horror
+http://62.201.210.84:2110/play/a0gh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",SKY Cinema Thriller
+http://62.201.210.84:2110/play/a0gi
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",SKY Cinema Bollywood
+http://62.201.210.84:2110/play/a0gj
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",SKY Cinema Comedy
+http://62.201.210.84:2110/play/a0gk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",BRAVO Box Office
+http://62.201.210.84:2110/play/a0gl
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",BRAVO Extra
+http://62.201.210.84:2110/play/a0gm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",BRAVO Series
+http://62.201.210.84:2110/play/a0gn
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",BRAVO Turkey
+http://62.201.210.84:2110/play/a0go
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix Science
+http://62.201.210.84:2110/play/a0g0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",Netflix Classic
+http://62.201.210.84:2110/play/a0g1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix Crime
+http://62.201.210.84:2110/play/a0g2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix Hollywood
+http://62.201.210.84:2110/play/a0g3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix Thriller
+http://62.201.210.84:2110/play/a0g4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix Drama
+http://62.201.210.84:2110/play/a0g5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", Netflix Fantasia
+http://62.201.210.84:2110/play/a0g6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Music
+http://62.201.210.84:2110/play/a0g7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Tube
+http://62.201.210.84:2110/play/a0g8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA", ZINA Turkey
+http://62.201.210.84:2110/play/a0g9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC5
 https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
