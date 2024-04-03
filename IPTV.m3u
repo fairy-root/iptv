@@ -298,6 +298,79 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/MuseumTV.svg/revision/latest?cb=20200906175358" group-title="DOCU",Museum
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",TF1
+http://145.239.5.177:8080/307/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",M6
+http://145.239.5.177:8080/309/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",E!
+http://145.239.5.177:8080/111/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",Canal+ Elle
+http://145.239.5.177:8080/122/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",TV5 Monde
+http://145.239.5.177:8080/225/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",arte
+http://145.239.5.177:8080/300/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",FRANCE 2
+http://145.239.5.177:8080/302/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",FRANCE 3
+http://145.239.5.177:8080/303/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",France Info
+http://145.239.5.177:8080/306/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",RTL9
+http://145.239.5.177:8080/308/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",TFX
+http://145.239.5.177:8080/315/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",13ème Rue
+http://145.239.5.177:8080/316/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",Polar+
+http://145.239.5.177:8080/317/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",TV Breizh
+http://145.239.5.177:8080/318/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",Téva
+http://145.239.5.177:8080/329/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",Auvio Kids
+http://145.239.5.177:8080/330/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",W9
+http://145.239.5.177:8080/331/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",AB1
+http://145.239.5.177:8080/332/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",Chérie 23
+http://145.239.5.177:8080/333/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",CANAL+ CINEMA
+http://145.239.5.177:8080/347/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",Serie Club
+http://145.239.5.177:8080/355/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",CARAC 1
+http://145.239.5.177:8080/371/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",BEIN SPORTS 1
+http://145.239.5.177:8080/512/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",BEIN SPORTS 2
+http://145.239.5.177:8080/513/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",BEIN SPORTS 3
+http://145.239.5.177:8080/514/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",RMC SPORT 1
+http://145.239.5.177:8080/524/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",RMC SPORT 2
+http://145.239.5.177:8080/525/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",RMC SPORT 3
+http://145.239.5.177:8080/526/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",EUROSPORT 1
+http://145.239.5.177:8080/529/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",CANAL+ SPORT
+http://145.239.5.177:8080/537/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",CANAL+ SPORT 2
+http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",CANAL+ PREMIER LEAGUE
+http://145.239.5.177:8080/542/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",CANAL+ SPORT 4
+http://145.239.5.177:8080/343/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",CANAL+ FOOT
+http://145.239.5.177:8080/556/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",CANAL+ SPORT 360
+http://145.239.5.177:8080/561/index.m3u8
+#EXTINF:-1 tvg-logo="PNG" group-title="FRANCE",S Grand Stand
+http://145.239.5.177:8080/567/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC5
 https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mbc1logo_%282%29.png/640px-Mbc1logo_%282%29.png" group-title="MBC",MBC1
@@ -789,29 +862,6 @@ https://live.tv247us.com/tv247/usanw.m3u8
 https://live.tv247us.com/tv247/showtime.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="USA",Outdoor
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",Bein Sports 1 HD FR
-https://algerian-iptv.uk:443/sami/sami2/355.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",Bein Sports 2 HD FR
-https://algerian-iptv.uk:443/sami/sami2/356.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",CANAL + FOOT
-https://algerian-iptv.uk:443/sami/sami2/357.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",CANAL + PREMIER LEAGUE
-https://algerian-iptv.uk:443/sami/sami2/358.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",CANAL + SPORTS
-https://algerian-iptv.uk:443/sami/sami2/359.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",CANAL + SPORTS 360
-https://algerian-iptv.uk:443/sami/sami2/361.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",RMC SPORTS 1
-https://algerian-iptv.uk:443/sami/sami2/364.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",RMC SPORTS 2
-https://algerian-iptv.uk:443/sami/sami2/365.ts
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",RMC DÉCOUVERTE
-https://algerian-iptv.uk:443/sami/sami2/368.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="FRANCE",RMC Story
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Allocin%C3%A9_Logo_%282019%29.svg/1200px-Allocin%C3%A9_Logo_%282019%29.svg.png" group-title="FRANCE",Allo Ciné
-https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8j2npVc" group-title="FILMRISE",Filmrise Binge (French)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/56f5b5ceafba4a8b/9991728/master.m3u8?ads.xumo_channelId=9991728
