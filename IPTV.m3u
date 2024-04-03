@@ -75,6 +75,56 @@ https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="SKY SPORTS",SKY Sports 9
 https://donelfantastic.github.io/live/skysportsNz9.m3u8
 
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",RMTV ES
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",RMTV EN
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",True BeinSports 1
+https://edge1.laotv.la/live/Bsport1/manifest.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",True BeinSports 2
+https://edge1.laotv.la/live/Bsport2/manifest.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",True Premier Football 1
+https://ctrl.laotv.la/live/TSport1/manifest.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/manifest.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",True Premier Football 1 extra
+https://ctrl.laotv.la/live/TSport1/index.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",True Premier Football 2 extra
+https://ctrl.laotv.la/live/TSport2/index.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",Sentana Sports 1
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",Sentana Sports 2
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/x1ecc_live-n8t1vjjlihm.smil/playlist.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",CBS  Sports Network
+https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",TNT Sports 1
+https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",ESPN 1
+https://bvsat02.cdn.rcs.net.ar/mnp/espn/output.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",ESPN 3
+https://bvsat02.cdn.rcs.net.ar/mnp/espn3/output.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",ESPN Premium
+https://bvsat02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",ESPN Extra
+https://bvsat02.cdn.rcs.net.ar/mnp/espn_extra/output.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",Fox Sports
+https://bvsat02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",Fox Sports 2
+https://bvsat02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",Fox Sports 3
+https://bvsat02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",TYC Sports
+https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",TNT Sports
+https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",Fifa 1
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#EXTINF:-1 tv-logo="https://cdn.freebiesupply.com/logos/large/2x/source-for-sports-logo-png-transparent.png" group-title="SPORTS",Fifa 2
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Movies
 http://62.201.210.84:2110/play/a0dq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMGa4FM_d.webp?maxwidth=760&fidelity=grand" group-title="ZINA",ZINA Arabic
